@@ -5,8 +5,10 @@
 ## How to Run
 #### 1.git clone https://github.com/Tarunpurohit146/Audio_Book.git
 #### 2.Run the command cd Audio_Book
-#### 3.Run the command pip install -r requirements.txt
-#### 4.Run py Audio_Book.py
+#### 3.Create Virtual Environment.Using command py -m venv audiobook_env
+#### 4.Run command audiobook_env\Scripts\activate
+#### 5.Run the command pip install -r requirements.txt
+#### 6.Run py Audio_Book.py
 
 
 
